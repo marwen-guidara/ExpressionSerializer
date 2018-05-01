@@ -1,0 +1,9 @@
+C:\Users\MarwenGuidara\Source\Repos\expression-json-serializer\Aq.ExpressionJsonSerializer\obj\Debug\ExpressionJson.csproj.CoreCompileInputs.cache
+C:\Users\MarwenGuidara\Source\Repos\expression-json-serializer\Aq.ExpressionJsonSerializer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MarwenGuidara\Source\Repos\expression-json-serializer\Aq.ExpressionJsonSerializer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MarwenGuidara\Source\Repos\expression-json-serializer\Aq.ExpressionJsonSerializer\obj\Debug\ExpressionJson.csproj.CopyComplete
+C:\Users\MarwenGuidara\Source\Repos\expression-json-serializer\Aq.ExpressionJsonSerializer\bin\Debug\ExpressionJsonSerializer.dll
+C:\Users\MarwenGuidara\Source\Repos\expression-json-serializer\Aq.ExpressionJsonSerializer\bin\Debug\ExpressionJsonSerializer.pdb
+C:\Users\MarwenGuidara\Source\Repos\expression-json-serializer\Aq.ExpressionJsonSerializer\obj\Debug\ExpressionJsonSerializer.dll
+C:\Users\MarwenGuidara\Source\Repos\expression-json-serializer\Aq.ExpressionJsonSerializer\obj\Debug\ExpressionJsonSerializer.pdb
+C:\Users\MarwenGuidara\Source\Repos\expression-json-serializer\Aq.ExpressionJsonSerializer\obj\Debug\ExpressionJson.csprojResolveAssemblyReference.cache
